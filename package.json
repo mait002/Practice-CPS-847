@@ -1,0 +1,21 @@
+{
+  "name": "practice-cps-847",
+  "version": "1.0.0",
+  "description": "This repo is just a sample repo for the course lab GitHub demo",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mait002/Practice-CPS-847.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mait002/Practice-CPS-847/issues"
+  },
+  "homepage": "https://github.com/mait002/Practice-CPS-847#readme"
+}
